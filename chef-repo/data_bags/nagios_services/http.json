@@ -1,0 +1,5 @@
+{
+  "id": "http",
+  "hostgroup_name": "Web-server",
+  "command_line": "$USER1$/check_nrpe -H $HOSTADDRESS$ -c check_http -t 20"
+}

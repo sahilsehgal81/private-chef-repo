@@ -1,0 +1,5 @@
+{
+  "id": "sql",
+  "hostgroup_name": "SQL-Group",
+  "command_line": "$USER1$/check_mysql -H $HOSTADDRESS$"
+}

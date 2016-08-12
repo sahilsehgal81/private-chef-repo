@@ -1,0 +1,13 @@
+{
+  "id": "nagiosadmin",
+  "password": "$apr1$HMO5G6a2$F3xO2Mt7.UleMiIhRAAS00",
+  "groups": [
+    "sysadmin"
+  ],
+  "shell": "/bin/bash",
+  "htpasswd": "$apr1$HMO5G6a2$F3xO2Mt7.UleMiIhRAAS00",
+  "nagios": {
+    "email": "alex123@viewlift.com"
+  }
+}
+
